@@ -37,7 +37,7 @@ The dataset was sourced from Kaggle and includes information on:
 ## Key Insights
 
 ## Project Structure
-- `Startup Funding and Outcome Analysis.ipynb` – Main analysis notebook
+- `Startup_Funding_and_Outcome_Analysis.ipynb` – Main analysis notebook
 
 ## How to Use
 1. Open the notebook in Jupyter Notebook or Google Colab
