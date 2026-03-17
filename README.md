@@ -40,9 +40,10 @@ The dataset was sourced from Kaggle and includes information on:
 - `Startup_Funding_and_Outcome_Analysis.ipynb` – Main analysis notebook
 
 ## How to Use
-1. Open the notebook in Jupyter Notebook or Google Colab
-2. Run all cells to reproduce the analysis
-3. Review visualisations and insights
+1. Clone the repository
+2. Open the notebook in Jupyter Notebook or Google Colab
+3. Run all cells to reproduce the analysis
+4. Review visualisations and insights
 
 ## Conclusion
 
