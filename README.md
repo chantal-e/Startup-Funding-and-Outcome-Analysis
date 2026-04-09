@@ -6,7 +6,7 @@ This project analyses startup funding and outcome data to investigate the key fa
 ## Objectives
 - Analyse the relationship between funding and startup outcomes (IPO, Acquisition, Failure)
 - Identify key risk factors affecting startup success
-- Evaluate the impact of founder experience, sector, and investor type
+- Evaluate the impact of funding rounds, investor stype, sector type, and founder experience
 - Provide data-driven insights relevant to investment decision-making
 
 ## Dataset
@@ -28,7 +28,7 @@ The dataset was sourced from Kaggle and includes information on:
 - Seaborn
 
 ## Key Analysis Areas
-- Funding vs Outcome
+- Funding Rounds vs Outcome
 - Revenue and Burn Rate Analysis
 - Founder Experience and Background
 - Sector-Based Risk Comparison
